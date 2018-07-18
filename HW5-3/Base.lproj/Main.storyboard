@@ -25,7 +25,7 @@
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="playButton2Tapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ltG-ed-BKP"/>
+                                    <action selector="playButton2Tapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gRv-Vg-eZa"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="i9O-aE-dXb">
@@ -36,7 +36,7 @@
                                     <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <action selector="playButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="D3d-YZ-POP"/>
+                                    <action selector="playButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6Gh-Ck-IX7"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -45,8 +45,8 @@
                     </view>
                     <navigationItem key="navigationItem" title="Play Music" id="q1S-Tc-RgA"/>
                     <connections>
-                        <outlet property="playButton" destination="i9O-aE-dXb" id="JAr-ub-pLs"/>
-                        <outlet property="view" destination="asR-Ac-2Ft" id="baE-DY-qvF"/>
+                        <outlet property="playButton" destination="i9O-aE-dXb" id="zPb-Kf-0qy"/>
+                        <outlet property="playButton2" destination="asR-Ac-2Ft" id="Ywc-tv-sHs"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

@@ -14,6 +14,7 @@
 		1F57911120FF8BCE00C6512F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F57910F20FF8BCE00C6512F /* LaunchScreen.storyboard */; };
 		1F57911C20FF8BCE00C6512F /* HW5_3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F57911B20FF8BCE00C6512F /* HW5_3Tests.swift */; };
 		1F57912720FF8BCE00C6512F /* HW5_3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F57912620FF8BCE00C6512F /* HW5_3UITests.swift */; };
+		1F57913920FFFCB400C6512F /* StarSky.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1F57913820FFFCB400C6512F /* StarSky.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		1F57912220FF8BCE00C6512F /* HW5-3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HW5-3UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F57912620FF8BCE00C6512F /* HW5_3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HW5_3UITests.swift; sourceTree = "<group>"; };
 		1F57912820FF8BCE00C6512F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1F57913820FFFCB400C6512F /* StarSky.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = StarSky.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		1F57910520FF8BCD00C6512F /* HW5-3 */ = {
 			isa = PBXGroup;
 			children = (
+				1F57913820FFFCB400C6512F /* StarSky.mp3 */,
 				1F57910620FF8BCD00C6512F /* AppDelegate.swift */,
 				1F57910820FF8BCD00C6512F /* ViewController.swift */,
 				1F57910A20FF8BCD00C6512F /* Main.storyboard */,
@@ -231,6 +234,7 @@
 			files = (
 				1F57911120FF8BCE00C6512F /* LaunchScreen.storyboard in Resources */,
 				1F57910E20FF8BCE00C6512F /* Assets.xcassets in Resources */,
+				1F57913920FFFCB400C6512F /* StarSky.mp3 in Resources */,
 				1F57910C20FF8BCD00C6512F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
